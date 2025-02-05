@@ -127,10 +127,10 @@ Open [`index.html`](./index.html) and fill your information, there are 6 section
       </div>
       <div class="about-wrapper__info">
         <p class="about-wrapper__info-text">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit.
+         hallo ik ben jop
         </p>
         <p class="about-wrapper__info-text">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          hallo ik ben jop
         </p>
         <span class="about-wrapper__cta">
           <a href="#" class="cta-btn cta-btn--resume">View Resume</a>
@@ -146,7 +146,7 @@ Open [`index.html`](./index.html) and fill your information, there are 6 section
 
 - Each project lives inside `row` class.
 - On `<h3>` tag with class-name `.project-wrapper__text-title`, include your project title.
-- On `<p>` tag with `loremp ipsum...` text, include your project information.
+- On `<p>` tag with `hallo ik ben jop` text, include your project information.
 - On first `<a>` tag, put your project url on `href` attribute.
 - On second `<a>` tag, put your project repository url on `href` attribute.
 
@@ -167,7 +167,7 @@ Open [`index.html`](./index.html) and fill your information, there are 6 section
             <div class="project-wrapper__text">
               <h3 class="project-wrapper__text-title">Project Title</h3>
               <p class="project-wrapper__text-info">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+               hallo ik ben jop
               </p>
               <div class="project-wrapper__text-btns">
                 <a
